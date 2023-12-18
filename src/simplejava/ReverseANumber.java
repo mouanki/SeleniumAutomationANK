@@ -2,7 +2,9 @@ package simplejava;
 
 public class ReverseANumber {
 
+	
 	public static void main(String[] args) {
+		System.out.println("This is reverse number demo");
 		int number= 354;
 		int rev=0;
 		int rem;
